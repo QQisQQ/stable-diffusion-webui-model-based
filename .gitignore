@@ -24,3 +24,4 @@ __pycache__
 notification.mp3
 /SwinIR
 /textual_inversion
+models/Stable-diffusion/model.vae.pt
