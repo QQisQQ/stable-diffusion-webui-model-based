@@ -29,3 +29,4 @@ webui_setup.初版有错误,必须用这个版替换.220928V2.bat
 models/Stable-diffusion/1_last.vae.pt
 models/Stable-diffusion/final-pruned.vae.pt
 models/deepbooru/model-resnet_custom_v3.h5
+webui_run.A1111跳过更新直接运行.220930V2.bat
